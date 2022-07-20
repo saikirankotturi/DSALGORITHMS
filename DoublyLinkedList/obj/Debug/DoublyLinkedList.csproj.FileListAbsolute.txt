@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\bin\Debug\DoubleEndedQueues.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\bin\Debug\DoubleEndedQueues.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\bin\Debug\DoubleEndedQueues.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\obj\Debug\DoubleEndedQueues.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\obj\Debug\DoubleEndedQueues.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\obj\Debug\DoubleEndedQueues.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DoubleEndedQueues\obj\Debug\DoubleEndedQueues.pdb

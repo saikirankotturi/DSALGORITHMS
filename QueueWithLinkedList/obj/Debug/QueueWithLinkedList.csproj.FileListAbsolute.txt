@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\bin\Debug\QueueWithLinkedList.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\bin\Debug\QueueWithLinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\bin\Debug\QueueWithLinkedList.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\obj\Debug\QueueWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\obj\Debug\QueueWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\obj\Debug\QueueWithLinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\QueueWithLinkedList\obj\Debug\QueueWithLinkedList.pdb

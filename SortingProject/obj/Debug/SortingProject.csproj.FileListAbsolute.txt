@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\bin\Debug\SortingProject.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\bin\Debug\SortingProject.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\bin\Debug\SortingProject.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\obj\Debug\SortingProject.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\obj\Debug\SortingProject.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\obj\Debug\SortingProject.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\SortingProject\obj\Debug\SortingProject.csproj.AssemblyReference.cache

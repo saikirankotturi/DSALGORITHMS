@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\bin\Debug\DSAlgo.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\bin\Debug\DSAlgo.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\bin\Debug\DSAlgo.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\obj\Debug\DSAlgo.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\obj\Debug\DSAlgo.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\obj\Debug\DSAlgo.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\DSAlgo\obj\Debug\DSAlgo.pdb

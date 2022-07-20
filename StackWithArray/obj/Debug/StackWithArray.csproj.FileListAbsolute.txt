@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\bin\Debug\StackWithArray.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\bin\Debug\StackWithArray.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\bin\Debug\StackWithArray.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\obj\Debug\StackWithArray.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\obj\Debug\StackWithArray.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\obj\Debug\StackWithArray.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithArray\obj\Debug\StackWithArray.pdb

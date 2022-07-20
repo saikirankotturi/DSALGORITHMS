@@ -1,0 +1,6 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\bin\Debug\StackWithLL.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\bin\Debug\StackWithLL.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\bin\Debug\StackWithLL.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\obj\Debug\StackWithLL.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\obj\Debug\StackWithLL.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\StackWithLL\obj\Debug\StackWithLL.pdb

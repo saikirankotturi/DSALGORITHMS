@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\sk185720\Desktop\DSAlgo\DSAlgo\LinkedList\obj\Debug\LinkedList.pdb
