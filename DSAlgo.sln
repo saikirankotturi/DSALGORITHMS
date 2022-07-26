@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueWithLinkedList", "Queu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleEndedQueues", "DoubleEndedQueues\DoubleEndedQueues.csproj", "{BDE914C3-E6D3-4E13-9FCA-DE49361E4031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{D1377139-B436-4C34-9CD2-590E83FF226B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeRecursion", "BinarySearchTreeRecursion\BinarySearchTreeRecursion.csproj", "{7EB70DF5-29BB-44E1-B11F-73C55E022E96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{BDE914C3-E6D3-4E13-9FCA-DE49361E4031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDE914C3-E6D3-4E13-9FCA-DE49361E4031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDE914C3-E6D3-4E13-9FCA-DE49361E4031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1377139-B436-4C34-9CD2-590E83FF226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1377139-B436-4C34-9CD2-590E83FF226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1377139-B436-4C34-9CD2-590E83FF226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1377139-B436-4C34-9CD2-590E83FF226B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
