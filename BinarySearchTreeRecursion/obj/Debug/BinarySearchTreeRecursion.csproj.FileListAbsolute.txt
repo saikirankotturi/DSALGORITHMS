@@ -1,0 +1,7 @@
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\bin\Debug\BinarySearchTreeRecursion.exe.config
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\bin\Debug\BinarySearchTreeRecursion.exe
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\bin\Debug\BinarySearchTreeRecursion.pdb
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\obj\Debug\BinarySearchTreeRecursion.csproj.AssemblyReference.cache
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\obj\Debug\BinarySearchTreeRecursion.csproj.CoreCompileInputs.cache
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\obj\Debug\BinarySearchTreeRecursion.exe
+C:\Users\sk185720\Desktop\DSALGOGIT\DSALGORITHMS\BinarySearchTreeRecursion\obj\Debug\BinarySearchTreeRecursion.pdb
