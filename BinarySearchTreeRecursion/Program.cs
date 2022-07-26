@@ -108,6 +108,27 @@ namespace BinarySearchTreeRecursion
 
         }
 
+        public bool Search(Node tempRoot, int key)
+        {
+           
+            if(tempRoot != null)
+            {
+                if(tempRoot.element==key)
+                {
+                    return true;
+                }
+                else if (key< tempRoot.element)
+                {
+                   return Search(tempRoot.left,key);
+                }
+                else
+                {
+                  return  Search(tempRoot.right,key);
+                }
+            }
+            return false;
+        }
+
     }
     class Program
     {
@@ -127,6 +148,8 @@ namespace BinarySearchTreeRecursion
             tree.PreOrder(tree.root);
             tree.PostOrder(tree.root);
             tree.LevelOrder(tree.root);
+
+            Console.WriteLine("Search" + tree.Search(tree.root,200));
             Console.ReadLine();
 
         }

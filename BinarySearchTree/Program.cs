@@ -79,6 +79,27 @@ namespace BinarySearchTree
                 Inorder(tempRoot.right);
             }
         }
+
+        public bool Search(int key)
+        {
+            Node tempRoot = root;
+            while(tempRoot!=null)
+            {
+                if(key==tempRoot.element)
+                {
+                    return true;
+                }
+                else if(key<tempRoot.element)
+                {
+                    tempRoot = tempRoot.left;
+                }
+                else
+                {
+                    tempRoot = tempRoot.right;
+                }
+            }
+            return false;
+        }
     }
     class Program
     {
@@ -96,6 +117,7 @@ namespace BinarySearchTree
 
             tree.Inorder(tree.root);
 
+            Console.WriteLine("Search" + tree.Search(100));
             Console.ReadLine();
 
         }
