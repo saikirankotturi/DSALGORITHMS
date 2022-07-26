@@ -28,6 +28,8 @@ namespace StackWithLL
         {
             head = null;
             tail = null;
+
+
         }
 
         public int LengthOfStack()
