@@ -100,6 +100,80 @@ namespace BinarySearchTree
             }
             return false;
         }
+
+        public bool Delete(int e)
+        {
+            Node p = root;
+            Node pp = null;
+
+            while (p != null & p.element != e)
+            {
+               pp = p;
+               if(e<p.element)
+               {
+                    p = p.left;
+               }
+               else
+               {
+                    p = p.right;
+               }
+            }
+
+            if (p==null)
+            {
+                return false;
+            }
+
+            if(p.left!=null || p.right!=null)
+            {
+                Node s = pp;
+
+                while(s.right!=null)
+                {
+                    s = s.right;
+                }
+
+                pp.left.element = s.element;
+
+
+            }
+            return true;
+
+        }
+
+        public int Count(Node troot)
+        {
+            int x = 0;
+            int y = 0;
+            if(troot!=null)
+            {
+                x = Count(troot.left);
+                y = Count(troot.right);
+                return x + y + 1;
+            }
+            return 0;
+        }
+
+        public int Height(Node troot)
+        {
+            int x = 0;
+            int y = 0;
+            if(troot!=null)
+            {
+                x = Height(troot.left);
+                y = Height(troot.right);
+
+                if(x>y)
+                {
+                    return x + 1;
+                }
+                else
+                {
+                    return y + 1;
+                }
+            }
+            return 0;
+        }
     }
     class Program
     {
@@ -114,6 +188,8 @@ namespace BinarySearchTree
             tree.Insert(tree.root, 70);
             tree.Insert(tree.root, 50);
             tree.Insert(tree.root, 200);
+            Console.WriteLine("Count"+tree.Count(tree.root));
+            Console.WriteLine("Height of Tree" + tree.Height(tree.root));
 
             tree.Inorder(tree.root);
 
