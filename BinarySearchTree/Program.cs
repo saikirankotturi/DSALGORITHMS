@@ -100,6 +100,42 @@ namespace BinarySearchTree
             }
             return false;
         }
+
+        public bool Delete(int key)
+        {
+            Node p = root;
+            Node pp=null;
+
+            while (p!=null && p.element!=key)
+            {
+                pp = p;
+                if(key<p.element)
+                {
+                    p=p.left;
+                }
+                else
+                {
+                    p = p.right;
+                }
+            }
+            if (p==null)
+            {
+                return false;
+            }
+
+            if(p.left!=null&&p.right!=null)
+            {
+                Node s = p.left;
+                Node ps = p;
+                while (s.right!=null)
+                {
+                    ps = s;
+                    s = s.right;
+                }
+                p.element = s.element;
+                p = s;
+            }
+        }
     }
     class Program
     {
