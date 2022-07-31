@@ -124,19 +124,79 @@ namespace BinarySearchTree
                 return false;
             }
 
-            if(p.left!=null || p.right!=null)
+            if(p.left==null && p.right==null)
             {
-                Node s = pp;
+                if(p!=root)
+                {
+                    if(pp.left==p)
+                    {
+                        pp.left = null;
+                    }
+                    else
+                    {
+                        pp.right = null;
+                    }
+                }
+                else
+                {
+                    root = null; 
+                }
+            }
+
+            else if(p.left!=null && p.right!=null)
+            {
+
+                Node s = p.left;
+                Node ps = p;
+
+                if(s.right==null)
+                {
+                    p.element = s.element;
+                    p.left = s.left;
+                    return true;
+                }
 
                 while(s.right!=null)
                 {
+                    ps = s;
                     s = s.right;
                 }
 
-                pp.left.element = s.element;
-
-
+                p.element = s.element;
+                p = s;
+                ps.right = null;
+                
             }
+
+            else  
+            {
+                Node c = null;
+                if(p.left==null)
+                {
+                    c = p.right;
+                }
+                else
+                {
+                    c = p.left;
+                }
+                if(p!=root)
+                {
+                    if (pp.left == p)
+                    {
+                        pp.left = c;
+                    }
+                    else
+                    {
+                        pp.right = c;
+                    }
+                }   
+                else
+                {
+                    root = c;
+                }
+                
+            }
+          
             return true;
 
         }
@@ -180,20 +240,31 @@ namespace BinarySearchTree
         static void Main(string[] args)
         {
             BinarySearchTree tree = new BinarySearchTree();
+            tree.Insert(tree.root, 14);
             tree.Insert(tree.root, 10);
-            tree.Insert(tree.root, 5);
-            tree.Insert(tree.root, 30);
-            tree.Insert(tree.root, 20);
-            tree.Insert(tree.root, 90);
-            tree.Insert(tree.root, 70);
-            tree.Insert(tree.root, 50);
-            tree.Insert(tree.root, 200);
-            Console.WriteLine("Count"+tree.Count(tree.root));
-            Console.WriteLine("Height of Tree" + tree.Height(tree.root));
+            tree.Insert(tree.root, 15);
+            tree.Insert(tree.root, 7);
+            tree.Insert(tree.root, 12);  
+            tree.Insert(tree.root, 6);
+            tree.Insert(tree.root, 8);
+            tree.Insert(tree.root, 11);
+            tree.Insert(tree.root, 13);
+
+            //tree.Insert(tree.root, 4);
+            //tree.Insert(tree.root, 6);
+            tree.Delete(10);
+            //tree.Insert(tree.root, 30);
+            //tree.Insert(tree.root, 20);
+            //tree.Insert(tree.root, 90);
+            //tree.Insert(tree.root, 70);
+            //tree.Insert(tree.root, 50);
+            //tree.Insert(tree.root, 200);
+            //Console.WriteLine("Count"+tree.Count(tree.root));
+            //Console.WriteLine("Height of Tree" + tree.Height(tree.root));
 
             tree.Inorder(tree.root);
 
-            Console.WriteLine("Search" + tree.Search(100));
+            //Console.WriteLine("Search" + tree.Search(100));
             Console.ReadLine();
 
         }
