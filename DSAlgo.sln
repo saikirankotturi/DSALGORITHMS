@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeRecursion", "BinarySearchTreeRecursion\BinarySearchTreeRecursion.csproj", "{7EB70DF5-29BB-44E1-B11F-73C55E022E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaps", "Heaps\Heaps.csproj", "{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{C6CD8118-995A-47CF-94C1-2E8B00CA671B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

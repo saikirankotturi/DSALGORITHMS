@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\bin\Debug\Heaps.exe.config
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\bin\Debug\Heaps.exe
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\bin\Debug\Heaps.pdb
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\obj\Debug\Heaps.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\obj\Debug\Heaps.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\obj\Debug\Heaps.exe
+C:\Users\hp\Desktop\DSALGOGIT\DSALGORITHMS\Heaps\obj\Debug\Heaps.pdb
