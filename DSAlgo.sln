@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching", "DSAlgo\Searching.csproj", "{EC4BAD71-F5A1-4ADA-A5CB-C9A11705C74B}"
 EndProject
@@ -29,9 +29,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeRecursion", "BinarySearchTreeRecursion\BinarySearchTreeRecursion.csproj", "{7EB70DF5-29BB-44E1-B11F-73C55E022E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaps", "Heaps\Heaps.csproj", "{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashing_ChainCollision", "Hashing\Hashing_ChainCollision.csproj", "{94CBF6C2-99FA-4D55-8EFE-00A387AD9B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{C6CD8118-995A-47CF-94C1-2E8B00CA671B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_LinearProbe", "Hash_LinearProbe\Hash_LinearProbe.csproj", "{22709F1F-F3FC-459F-8111-F42A71B4E9AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,14 +91,14 @@ Global
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB70DF5-29BB-44E1-B11F-73C55E022E96}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D6B8B1C-1A37-4D2B-B309-2966591AB9E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6CD8118-995A-47CF-94C1-2E8B00CA671B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CBF6C2-99FA-4D55-8EFE-00A387AD9B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CBF6C2-99FA-4D55-8EFE-00A387AD9B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CBF6C2-99FA-4D55-8EFE-00A387AD9B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CBF6C2-99FA-4D55-8EFE-00A387AD9B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22709F1F-F3FC-459F-8111-F42A71B4E9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22709F1F-F3FC-459F-8111-F42A71B4E9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22709F1F-F3FC-459F-8111-F42A71B4E9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22709F1F-F3FC-459F-8111-F42A71B4E9AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

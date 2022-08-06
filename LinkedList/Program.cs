@@ -18,14 +18,14 @@ namespace LinkedList
         }
     }
 
-    class LinkedList
+    public class LinkedListCustom
     {
         int size;
         Node head;
         Node tail;
         int element;
 
-        public LinkedList()
+        public LinkedListCustom()
         {
             head = null;
             tail = null;
@@ -192,7 +192,7 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            LinkedList l = new LinkedList();
+            LinkedListCustom l = new LinkedListCustom();
             l.AddLast(1);
             l.AddLast(2);
             l.AddFirst(4);
